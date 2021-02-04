@@ -1,6 +1,6 @@
 # PostEra's Relative Ranking Model
 **Big Idea**: Predict if compound A will be more or less active than compound B based on the differences in their fingerprint representation.
-- Input: 2 SMILE strings
+- Input: 2 SMILES strings
 - Output: Probability of compound A having a higher activity than compound B
 
 **Notebooks**
